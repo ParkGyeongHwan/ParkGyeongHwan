@@ -1,8 +1,9 @@
-### Hi there 👋
-babb  
+### Hi there I'm GyeongHwan👋
+I love my dog  
 
-dd
-![image](background.png){: width="300" height="400"}
+
+She name is Bbongsuk
+<img src="background.png" width="500" height="400"/>
 
 
 
