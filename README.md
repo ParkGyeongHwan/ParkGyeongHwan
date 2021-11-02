@@ -2,7 +2,7 @@
 I love my dog  
 
 
-She name is Bbongsuk
+She name is Bbongsuk</br>
 <img src="background.png" width="500" height="400"/>
 
 
