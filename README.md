@@ -3,7 +3,7 @@ I love my dog
 
 
 She name is Bbongsuk</br>
-<img src="background.png" width="500" height="400"/>
+<img src="background.png" width="700" height="500"/>
 
 
 
