@@ -8,7 +8,7 @@ My mail Link:
 
 
 Bbongsuk</br>
-<img src="background.png" width="700" height="500"/>
+<img src="background.png" width="500" height="500"/>
 
 	
 <!--
